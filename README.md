@@ -151,16 +151,16 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=el-kassoiri-mohammed&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-kassoiri-mohammed&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammed-El-Kassoiri&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-El-Kassoiri&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=el-kassoiri-mohammed&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-El-Kassoiri&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=el-kassoiri-mohammed&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-El-Kassoiri&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -233,16 +233,16 @@ English          ███████████████ 75%
   <a href="mailto:mohammed.kassoiri@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/el-kassoiri-mohammed">
+  <a href="https://linkedin.com/in/Mohammed-El-Kassoiri">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/el-kassoiri-mohammed">
+  <a href="https://github.com/Mohammed-El-Kassoiri">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=el-kassoiri-mohammed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-El-Kassoiri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
