@@ -23,7 +23,8 @@ class AIEngineer:
         self.education = "ENSIASD - Data Science, Big Data & AI"
         self.location = "Morocco 🇲🇦"
         self.current_focus = ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"]
-        self.seeking = "PFA Internship"
+        self.current_project = "X-EdTech Platform at XAI Morocco"
+        self.seeking = "PFE Internship"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build the future with AI 🤖")
@@ -77,6 +78,42 @@ me.say_hi()
   
 ---
 
+## 🚀 Professional Experience
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250"/>
+</div>
+
+### 🎓 PFA Internship - XAI Morocco
+<div align="left">
+  <img src="https://img.shields.io/badge/EdTech-4CAF50?style=for-the-badge&logo=google-classroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI Integration-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full Stack-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data Analytics-E97627?style=for-the-badge&logo=databricks&logoColor=white"/>
+</div>
+
+**Project: X-EdTech Platform** 📚🤖
+
+Developing an AI-powered educational ecosystem that revolutionizes how educators create, manage, and analyze educational content. The platform integrates multiple smart modules to enhance learning experiences through intelligent automation and personalization.
+
+#### 🔧 Key Modules & Features:
+
+- **🎯 X-Forms**: Dynamic form creation with AI-powered field suggestions and real-time validation
+- **📝 X-Quiz**: Intelligent assessment builder with auto-generated questions and adaptive difficulty
+- **📊 X-Table**: Smart data visualization for educational analytics and performance tracking  
+- **📋 X-Survey**: Advanced survey system with NLP-powered response analysis
+- **🎓 X-Classroom**: Integrated virtual classroom hub with personalized learning paths
+
+#### 🧠 AI Integration Highlights:
+
+- **Content Generation**: Automated quiz and survey question creation
+- **Predictive Analytics**: Student performance prediction and at-risk identification  
+- **Personalization Engine**: Tailored learning experiences based on individual progress
+- **NLP Processing**: Intelligent analysis of open-ended responses and feedback
+- **Automated Grading**: Real-time assessment with detailed feedback generation
+
+---
+
 ## 🔥 Featured Projects
 
 <div align="center">
@@ -96,11 +133,6 @@ me.say_hi()
 - 🌱 **Environmental Impact**: Contributing to sustainable recycling solutions
 - 📊 **ML Model**: Trained on annotated dataset for high accuracy
 - ⚡ **Real-time Processing**: Instant detection and classification
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="250"/>
-</div>
 
 ---
 
@@ -221,7 +253,7 @@ English          ███████████████ 75%
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300"/>
 </div>
 
-> **Seeking PFA Internship** 🎯
+> **Seeking PFE Internship** 🎯
 > 
 > Ready to apply cutting-edge ML/AI skills in a dynamic environment where innovation meets impact. Let's build the future together! 
 
